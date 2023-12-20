@@ -56,8 +56,8 @@ Open phpmyadmin
 Create Database named “ibilling”.
 Import database ibilling.sql.
 Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/CRM WEbAPP”
+“http://localhost/CRM WebApp/”
+To Login as admin put inside URL:”http://localhost/CRM WebApp”
 user login details:
 Username : admin@admin.com
 Password : 12345678
